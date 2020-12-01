@@ -17,3 +17,8 @@ This is a Deployment1
 This is a Deployment2
 
 ## How to contribute
+
+
+## Copyright
+
+2014. GitTraining
